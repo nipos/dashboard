@@ -167,6 +167,12 @@ a.action-button.detail:hover {
     }
 }
 
+@media only screen and (min-width: 840px) {
+    .gravatar {
+	display:block;
+    }
+}
+
 @media only screen and (min-width: 1170px) {
 
     .logged.in ul li.user {
